@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iyV/aZ0JKHxuMXYXbA2smjF47Ly50RjBYjI2v1Z74+K2nTXiHKMcS7XkC44qj17BugaKFsYFyWZtBC9+8WiyUQ==",
+  "success": true,
+  "projectFilePath": "D:\\Netcore\\DemoMVC\\DemoMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caolo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
